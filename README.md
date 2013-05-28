@@ -1,12 +1,10 @@
 bSelectBox
 ==========
-
 Replicates any select box with custom markup.
 
 
-##Documentation
+###Documentation
+http://robertcscott.com/bSelectBox/
 
-http://robertcscott.com/bSelectBox/#documentation
-
-##Demo
+###Demo
 http://robertcscott.com/bSelectBox/demo/
